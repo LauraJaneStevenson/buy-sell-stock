@@ -1,8 +1,3 @@
-# find lowest element in list
-# then find highest element that comes after it 
-# return difference of higest and lowest
-
-
 def find_max_profit(lst):
 	"""Given a list of stock prices by day
 	calculate max profit possible"""
